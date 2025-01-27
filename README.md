@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Ra77a3l3-jar
-- 👀 I’m interested in ... Video Games
-- 🌱 I’m currently learning ... Python, Java and C
+- 👋 Hi, I’m @Raffaele
+- 👀 I like video games, aerospace and coding
+- 🌱 I’m currently learning ... Python, Java, C and C++
 - ⚡ Fun fact: ... I have to stick always to a plan
 
 <!---
