@@ -44,8 +44,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra77a3l3-jar&show_icons=true&theme=radical&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra77a3l3-jar&layout=compact&theme=radical"/>
 
 </div>
 
@@ -84,8 +84,8 @@ You can click the Preview link to take a look at your changes.
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra77a3l3-jar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffaelemeo@runningcode.it)
 
 </div>
 
@@ -97,6 +97,6 @@ You can click the Preview link to take a look at your changes.
 
 **🚀 Learning to code, one project at a time! 🚀**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Ra77a3l3-jar&color=blue&style=flat-square)
 
 </div>
