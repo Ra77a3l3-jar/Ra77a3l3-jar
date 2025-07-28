@@ -44,7 +44,7 @@
 
 ## 🚀 What I'm Working On
 
-- 🎮 **Rock Paper Scissors Game** - Building it in multiple languages (C, C++, Java, Zig)
+- 🎮 **Learnin how to create a CLI - TUI and maybe a GUI application** - Building it in multiple languages (C, Java, Zig)
 - 📖 **School Projects** - Learning programming fundamentals at ITI
 - 🌱 **Growing my skills** - One commit at a time!
 
