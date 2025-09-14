@@ -10,7 +10,7 @@
 
 ## 🎓 About Me
 
-🏫 **ITI Student** (Istituto Tecnico Informatico) in Rome  
+🏫 **ITI Student** (V. Arangio Ruiz) in Rome  
 📍 **Location:** Rome, Italy 🇮🇹  
 🎂 **Age:** 17  
 📚 **Currently Learning:** Programming fundamentals and computer science  
