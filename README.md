@@ -1,93 +1,81 @@
-# 👋 Ciao! I'm Raffaele
-
-<div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=17+Year+Old+Student;Learning+to+Code;Rome%2C+Italy+🇮🇹)
-
-</div>
-
----
-
-## 🎓 About Me
-
-🏫 **ITI Student** (V. Arangio Ruiz) in Rome  
-📍 **Location:** Rome, Italy 🇮🇹  
-🎂 **Age:** 17  
-📚 **Currently Learning:** Programming fundamentals and computer science  
-
----
-
-## 💻 Languages I'm Learning
-
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white)
+```ascii
+██████╗  █████╗ ███████╗███████╗ █████╗ ███████╗██╗     ███████╗
+██╔══██╗██╔══██╗██╔════╝██╔════╝██╔══██╗██╔════╝██║     ██╔════╝
+██████╔╝███████║█████╗  █████╗  ███████║█████╗  ██║     █████╗  
+██╔══██╗██╔══██║██╔══╝  ██╔══╝  ██╔══██║██╔══╝  ██║     ██╔══╝  
+██║  ██║██║  ██║██║     ██║     ██║  ██║███████╗███████╗███████╗
+╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝     ╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
 
-</div>
-
----
-
-## 📊 My GitHub Stats
-
-<div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ra77a3l3-jar&show_icons=true&theme=radical&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra77a3l3-jar&layout=compact&theme=radical"/>
-
-</div>
-
----
-
-## 🚀 What I'm Working On
-
-- 🎮 **Learnin how to create a CLI - TUI and maybe a GUI application** - Building it in multiple languages (C, Java, Zig)
-- 📖 **School Projects** - Learning programming fundamentals at ITI
-- 🌱 **Growing my skills** - One commit at a time!
-
----
-
-## 🎯 My Goals
-
-```
-🔹 Master the basics of programming
-🔹 Build cool projects for school
-🔹 Learn new languages and technologies
-🔹 Maybe contribute to open source someday!
+🌟 Low-Level Programmer & AI-Robotics Enthusiast from Rome 🇮🇹 🌟
 ```
 
----
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=600&lines=ITI+Student+%7C+Rome%2C+Italy;Low-Level+Programming+Explorer;AI+%26+Robotics+Integration;Future+Systems+Developer)](https://git.io/typing-svg)
 
-## 🌟 Fun Facts
-
-- 🍝 Born and raised in Rome, Italy
-- 📚 ITI student focusing on computer science
-- 🎮 Love creating simple games and programs
-- 🌍 Excited to learn and grow as a developer
-- ⚡ Still figuring out which programming language is my favorite!
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🎯 About Me
+
+17-year-old systems programmer from Rome, studying at ITI V. Arangio Ruiz. Passionate about **low-level programming**, **AI integration**, and **robotics**. Building the future where intelligent software meets embedded hardware.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ra77a3l3-jar)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raffaelemeo@runningcode.it)
+[![My Skills](https://skillicons.dev/icons?i=c,python,cpp,rust,zig,assembly,linux,arduino,raspberrypi,opencv,tensorflow,pytorch,md,git)](https://skillicons.dev)
+
+</div>
+
+**Current Focus:** C/C++, Python, Arduino
+**Learning Path:** Rust, Zig, Assembly for AI-powered robotics
+
+---
+
+## 🚀 Future Vision
+
+- **AI-Driven Robotics** - Intelligent autonomous systems
+- **Low-Level AI Integration** - Embedded machine learning
+- **Smart Hardware** - Bridging software intelligence with physical world
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ra77a3l3-jar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&icon_color=32CD32&text_color=C9D1D9"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra77a3l3-jar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF8C00&text_color=C9D1D9"/>
+
+</div>
+
+---
+
+## 🤝 Connect
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:raffaelemeo@runningcode.it)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/raffaele-meo)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
+[![Mastodon](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@raffaele)
+
+raffaelemeo@runningcode.it
 
 </div>
 
 ---
 
 <div align="center">
-  
-*"Every expert was once a beginner"*
 
-**🚀 Learning to code, one project at a time! 🚀**
+### 💭 *"Every system tells a story, every bug teaches a lesson, every solution opens new possibilities"*
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ra77a3l3-jar&color=blue&style=flat-square)
+**🔥 Transforming curiosity into code, one commit at a time 🔥**
+
+<sub>Made with ❤️ from the Eternal City | © 2025 Raffaele</sub>
 
 </div>
