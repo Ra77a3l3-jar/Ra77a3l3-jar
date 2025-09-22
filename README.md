@@ -32,7 +32,7 @@
 </div>
 
 **Current Focus:** C/C++, Python, Arduino
-**Learning Path:** Rust, Zig, Assembly for AI-powered robotics
+**Learning Path:** Rust, Zig, Assembly and AI-powered robotics
 
 ---
 
