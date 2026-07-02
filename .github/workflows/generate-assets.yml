@@ -1,0 +1,58 @@
+name: Generate assets
+
+on:
+  schedule: [{cron: "0 0 * * *"}]
+  
+  # allows to manually run the job at any time
+  workflow_dispatch:
+  
+  # run on every push on the master branch
+  push:
+    branches:
+    - main
+    
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    permissions: 
+      contents: write
+    timeout-minutes: 5
+    
+    steps:
+      - name: Generate snake.svg and snake.gif
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push snake.svg to the assets/snake branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: assets/snake
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN  }}
+
+  generate-github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    timeout-minutes: 5
+
+    steps:
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: commit
+          committer_branch: assets/github-metrics
+          filename: metrics.svg
+          user: ${{ github.repository_owner }}
+          template: classic
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
